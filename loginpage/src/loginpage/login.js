@@ -1,7 +1,7 @@
 import React , {Component} from 'react';
 import image from './1.jpg';
 import './login.css';
-class Login extends Component{ // طريقة استخدام ال class  : <className /> داخل تاج
+class Login extends Component{ 
     render(){
         return(
             <div>
